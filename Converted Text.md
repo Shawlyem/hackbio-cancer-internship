@@ -1,3 +1,4 @@
+Authors (@slack): Richard Agyekum (@richard), Wale Joseph (@wale) and Shola Paul Emiade
 KINASES; In Cancer Pathogenesis and Therapy
 
 In recent years, about 70 protein kinase inhibitors have been approved by the FDA for cancer treatment. This is a fraction of the over 120 protein kinase inhibitors that have been approved the world over for treatment of various diseases \[1]. Kinases are enzymes that carryout transfer of high-energy phosphate groups from ATP to specific substrates such as serine, threonine, tyrosine or histidine residues in proteins. There are approximately 560 protein kinases which constitute about 2% of the total human genome \[2], of these 560 protein kinases, about 500 are eukaryotic and share sequence similarities while the over 60 remaining are atypical with no sequence similarities \[3].
