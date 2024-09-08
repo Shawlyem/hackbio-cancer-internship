@@ -1,4 +1,4 @@
-Authors (@slack): Richard Agyekum (@richard), Wale Joseph (@wale) and Shola Paul Emiade (@shawlyem)
+Author: Shola Paul Emiade (@shawlyem)
 
 KINASES; In Cancer Pathogenesis and Therapy
 
